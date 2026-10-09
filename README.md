@@ -64,7 +64,11 @@ I'm **Ammar Ahmed**, a technology enthusiast exploring the intersection of **Cyb
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=engammarahmed&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engammarahmed&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engammarahmed&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=3&custom_title=Most%20Used%20Languages&hide=html,css,javascript,jupyter%20notebook&size_weight=0.5&count_weight=0.5" alt="Most used programming languages" />
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </div>
 
 <div align="center">
