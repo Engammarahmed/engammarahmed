@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+  <title id="title">Cyber Dragon and Python Snake</title>
+  <desc id="desc">An animated cyber dragon and a snake move across a glowing contribution grid, with Linux and Python-inspired symbols.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b16"/><stop offset="1" stop-color="#111b35"/></linearGradient>
+    <linearGradient id="dragon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00d4ff"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+    <linearGradient id="snake" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22c55e"/><stop offset="1" stop-color="#a3e635"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1000" height="260" rx="18" fill="url(#bg)"/>
+  <g opacity=".18" stroke="#00d4ff" stroke-width="1"><path d="M0 40H1000M0 80H1000M0 120H1000M0 160H1000M0 200H1000M0 240H1000"/><path d="M40 0V260M80 0V260M120 0V260M160 0V260M200 0V260M240 0V260M280 0V260M320 0V260M360 0V260M400 0V260M440 0V260M480 0V260M520 0V260M560 0V260M600 0V260M640 0V260M680 0V260M720 0V260M760 0V260M800 0V260M840 0V260M880 0V260M920 0V260M960 0V260"/></g>
+  <text x="32" y="34" fill="#00d4ff" font-family="monospace" font-size="15" letter-spacing="3">CONTRIBUTION HUNT // LINUX × PYTHON</text>
+  <g transform="translate(42 68)">
+    <rect width="48" height="48" rx="12" fill="#111827" stroke="#00d4ff" stroke-width="1.5"/>
+    <path d="M24 8c-9 0-15 7-15 17 0 8 4 14 10 16l-2-9 5-4 5 4-2 9c6-2 10-8 10-16C35 15 31 8 24 8Z" fill="#f3f4f6"/>
+    <ellipse cx="19" cy="21" rx="2" ry="3" fill="#111827"/><ellipse cx="29" cy="21" rx="2" ry="3" fill="#111827"/><path d="M21 28l3 3 3-3" fill="#f59e0b"/>
+    <text x="24" y="64" text-anchor="middle" fill="#c9d1d9" font-family="monospace" font-size="11">LINUX</text>
+  </g>
+  <g transform="translate(905 68)">
+    <rect width="54" height="48" rx="12" fill="#111827" stroke="#7c3aed" stroke-width="1.5"/>
+    <path d="M28 7c-11 0-13 5-13 12v7h15v3H9c-6 0-8 5-8 11s4 7 10 7h6v-8c0-5 4-9 9-9h10c5 0 8-4 8-9V17C44 9 38 7 28 7Z" fill="#3776ab" transform="translate(4 -1) scale(.9)"/>
+    <path d="M28 41c11 0 13-5 13-12v-7H26v-3h21c6 0 8-5 8-11s-4-7-10-7h-6v8c0 5-4 9-9 9H20c-5 0-8 4-8 9v4c0 8 6 10 16 10Z" fill="#ffd343" transform="translate(-4 8) scale(.72)"/>
+    <text x="27" y="64" text-anchor="middle" fill="#c9d1d9" font-family="monospace" font-size="11">PYTHON</text>
+  </g>
+  <g opacity=".9">
+    <rect x="230" y="190" width="14" height="14" rx="3" fill="#0e4429"/><rect x="250" y="190" width="14" height="14" rx="3" fill="#006d32"/><rect x="270" y="190" width="14" height="14" rx="3" fill="#26a641"/><rect x="290" y="190" width="14" height="14" rx="3" fill="#39d353"/>
+    <rect x="310" y="190" width="14" height="14" rx="3" fill="#0e4429"/><rect x="330" y="190" width="14" height="14" rx="3" fill="#26a641"/><rect x="350" y="190" width="14" height="14" rx="3" fill="#006d32"/><rect x="370" y="190" width="14" height="14" rx="3" fill="#39d353"/>
+    <rect x="390" y="190" width="14" height="14" rx="3" fill="#26a641"/><rect x="410" y="190" width="14" height="14" rx="3" fill="#0e4429"/><rect x="430" y="190" width="14" height="14" rx="3" fill="#39d353"/><rect x="450" y="190" width="14" height="14" rx="3" fill="#006d32"/>
+    <rect x="470" y="190" width="14" height="14" rx="3" fill="#39d353"/><rect x="490" y="190" width="14" height="14" rx="3" fill="#26a641"/><rect x="510" y="190" width="14" height="14" rx="3" fill="#0e4429"/><rect x="530" y="190" width="14" height="14" rx="3" fill="#39d353"/>
+    <rect x="550" y="190" width="14" height="14" rx="3" fill="#006d32"/><rect x="570" y="190" width="14" height="14" rx="3" fill="#26a641"/><rect x="590" y="190" width="14" height="14" rx="3" fill="#39d353"/><rect x="610" y="190" width="14" height="14" rx="3" fill="#0e4429"/>
+    <rect x="630" y="190" width="14" height="14" rx="3" fill="#39d353"/><rect x="650" y="190" width="14" height="14" rx="3" fill="#006d32"/><rect x="670" y="190" width="14" height="14" rx="3" fill="#26a641"/><rect x="690" y="190" width="14" height="14" rx="3" fill="#39d353"/>
+  </g>
+  <g filter="url(#glow)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;10 -5;0 0" dur="3s" repeatCount="indefinite"/>
+      <path d="M330 145 C350 120 370 122 388 135 L411 125 L401 143 L425 151 L400 158 C387 179 356 176 344 158 Z" fill="url(#dragon)" stroke="#b6f3ff" stroke-width="1.5"/>
+      <path d="M354 137 L331 105 L371 125 L382 115 L382 136 Z" fill="#7c3aed" stroke="#00d4ff" stroke-width="1.5"/>
+      <path d="M360 160 L340 180 L373 169 L389 178 L385 158 Z" fill="#12304a" stroke="#00d4ff" stroke-width="1.5"/>
+      <circle cx="399" cy="143" r="3" fill="#fff"/><circle cx="400" cy="143" r="1.5" fill="#ff3355"/>
+      <path d="M424 151 l12 -4 -7 9" fill="#ffb454"/>
+      <path d="M343 155 C315 158 307 143 292 151" fill="none" stroke="#00d4ff" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 6;0 0" dur="2.2s" repeatCount="indefinite"/>
+      <path d="M500 151 C526 119 552 179 579 146 S624 127 648 151 S686 176 706 143" fill="none" stroke="url(#snake)" stroke-width="13" stroke-linecap="round"/>
+      <path d="M690 137 Q711 127 724 139 L732 148 L719 157 L701 154 Z" fill="#84cc16" stroke="#d9f99d" stroke-width="1.5"/>
+      <circle cx="719" cy="142" r="2.4" fill="#111827"/><path d="M730 149 l10 2 -9 3" fill="#fb7185"/>
+      <path d="M515 147 l-8 -5 M545 151 l-7 -7 M575 148 l-7 -7 M606 145 l-7 -7 M638 151 l-7 -7 M669 155 l-7 -7" stroke="#166534" stroke-width="2" stroke-linecap="round"/>
+    </g>
+  </g>
+  <text x="500" y="232" text-anchor="middle" fill="#9ca3af" font-family="monospace" font-size="12">DRAGON + SNAKE • COLLECTING EVERY COMMIT</text>
+  <path d="M430 151 Q455 135 480 151" fill="none" stroke="#00d4ff" stroke-width="2" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" from="0" to="-18" dur="1s" repeatCount="indefinite"/></path>
+</svg>
