@@ -75,12 +75,10 @@ I'm **Ammar Ahmed**, a technology enthusiast exploring the intersection of **Cyb
   <img src="https://streak-stats.demolab.com?user=engammarahmed&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
 </div>
 
-## 🐍 Linux & Python — Contribution Hunt
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/engammarahmed/engammarahmed/main/assets/python-snake-wifi.svg?v=6" alt="Animated green snake eats glowing food pellets, grows longer, circles Wi-Fi, and returns to the chart" width="100%" />
-  <br/>
-  <sub>Eat the glowing food. Grow longer. Circle the Wi-Fi. Return to the charts.</sub>
+  <img src="https://raw.githubusercontent.com/engammarahmed/engammarahmed/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
 </div>
 
 ## 🤝 Connect
