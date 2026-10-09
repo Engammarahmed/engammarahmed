@@ -74,9 +74,9 @@ I'm **Ammar Ahmed**, a technology enthusiast exploring the intersection of **Cyb
 ## 🐉🐍 Linux & Python — Contribution Hunt
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/engammarahmed/engammarahmed/main/assets/contribution-dragon.svg" alt="Animated cyber dragon and Python snake with Linux and Python themes" width="100%" />
+  <img src="https://raw.githubusercontent.com/engammarahmed/engammarahmed/main/assets/contribution-dragon.svg" alt="Animated Python snake descending from analytics charts into a Wi-Fi network" width="100%" />
   <br/>
-  <sub>Linux powers the dragon. Python guides the snake. Both chase every contribution.</sub>
+  <sub>A Python-inspired snake slides from analytics charts into a glowing Wi-Fi network.</sub>
 </div>
 
 ## 🤝 Connect
