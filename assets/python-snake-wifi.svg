@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
 <title id="title">Python snake climbs chart steps, circles Wi-Fi, and jumps back</title>
-<desc id="desc">A neon green snake moves down the steps of an analytics chart, leaps to a glowing Wi-Fi symbol, coils around it, then jumps back to the chart in a continuous loop.</desc>
+<desc id="desc">A neon green snake moves down chart steps, eats glowing energy orbs, grows longer with each bite, circles the Wi-Fi symbol, and jumps back to the chart.</desc>
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#060b16"/><stop offset="1" stop-color="#101d35"/></linearGradient>
 <linearGradient id="snake" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9ff7a"/><stop offset=".5" stop-color="#39e66a"/><stop offset="1" stop-color="#00d5a8"/></linearGradient>
@@ -33,6 +33,16 @@
 <circle cx="49" cy="-4" r="2.6" fill="#07111c"/><circle cx="49.5" cy="-4.5" r=".9" fill="#fff"/>
 <path d="M60 2l9 2 -8 4" fill="none" stroke="#fb7185" stroke-width="1.8" stroke-linecap="round"/>
 <path d="M-19 -7l-5 -7 10 4 M7 7l-4 8 10 -4" fill="#a3ff68"/>
+<!-- Body segments appear one by one as the snake eats glowing food -->
+<g stroke="#baff9a" stroke-width="1.2">
+  <circle cx="-53" cy="0" r="9" fill="#39e66a" opacity="0"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.12;1" begin="2s" dur="12s" repeatCount="indefinite"/></circle>
+  <circle cx="-70" cy="0" r="9.5" fill="#39e66a" opacity="0"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.2;1" begin="3s" dur="11s" repeatCount="indefinite"/></circle>
+  <circle cx="-88" cy="0" r="10" fill="#39e66a" opacity="0"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.25;1" begin="4s" dur="10s" repeatCount="indefinite"/></circle>
+  <circle cx="-107" cy="0" r="10.5" fill="#39e66a" opacity="0"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.3;1" begin="5s" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="-127" cy="0" r="11" fill="#39e66a" opacity="0"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.35;1" begin="6s" dur="8s" repeatCount="indefinite"/></circle>
+  <circle cx="-148" cy="0" r="11.5" fill="#39e66a" opacity="0"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.4;1" begin="7s" dur="7s" repeatCount="indefinite"/></circle>
+  <circle cx="-170" cy="0" r="12" fill="#39e66a" opacity="0"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.45;1" begin="8s" dur="6s" repeatCount="indefinite"/></circle>
+</g>
 </g>
 </g>
 <text x="270" y="280" text-anchor="middle" fill="#9bb5c8" font-family="monospace" font-size="12">1. SLITHER DOWN THE CHART</text><text x="790" y="270" text-anchor="middle" fill="#9bb5c8" font-family="monospace" font-size="12">2. CIRCLE WI-FI</text><text x="500" y="305" text-anchor="middle" fill="#c7d6e5" font-family="monospace" font-size="12" letter-spacing="1">3. JUMP BACK TO THE CHART • REPEAT</text>
