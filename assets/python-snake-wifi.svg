@@ -1,60 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
-<title id="title">Python Snake: Chart to Wi-Fi and Back</title>
-<desc id="desc">A neon green snake descends step by step down the bars of a chart, leaps to a glowing Wi-Fi symbol, curls around it, then jumps back to the top of the chart. The loop repeats.</desc>
+<title id="title">Python snake climbs chart steps, circles Wi-Fi, and jumps back</title>
+<desc id="desc">A neon green snake moves down the steps of an analytics chart, leaps to a glowing Wi-Fi symbol, coils around it, then jumps back to the chart in a continuous loop.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#060b16"/><stop offset="1" stop-color="#101b31"/></linearGradient>
- <linearGradient id="snake" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9ff78"/><stop offset=".5" stop-color="#39e66a"/><stop offset="1" stop-color="#00d5a8"/></linearGradient>
- <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00d4ff"/><stop offset="1" stop-color="#657bff"/></linearGradient>
- <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
- <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#173b54" stroke-width=".8" opacity=".45"/></pattern>
- <!-- One continuous loop: down the chart bars, leap to Wi-Fi, curl around it, leap back to the chart. -->
- <path id="route" pathLength="1000" d="M128 88 L128 119 L160 119 L160 139 L192 139 L192 159 L224 159 L224 179 L256 179 L256 199 L288 199 L288 218 L330 218 Q470 36 635 126 C685 154 715 206 770 190 A38 38 0 1 1 817 142 A38 38 0 1 1 770 190 C716 214 681 165 632 126 Q465 36 330 218 L288 218 L288 199 L256 199 L256 179 L224 179 L224 159 L192 159 L192 139 L160 139 L160 119 L128 119 L128 88"/>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#060b16"/><stop offset="1" stop-color="#101d35"/></linearGradient>
+<linearGradient id="snake" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9ff7a"/><stop offset=".5" stop-color="#39e66a"/><stop offset="1" stop-color="#00d5a8"/></linearGradient>
+<linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00d4ff"/><stop offset="1" stop-color="#647dff"/></linearGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#17405a" stroke-width=".8" opacity=".45"/></pattern>
 </defs>
-<rect width="1000" height="320" rx="18" fill="url(#bg)"/><rect width="1000" height="320" rx="18" fill="url(#grid)"/>
-<text x="30" y="32" fill="#00d4ff" font-family="monospace" font-size="14" letter-spacing="2.5">LINUX &amp; PYTHON // CONTRIBUTION HUNT</text>
-<!-- chart panel -->
+<rect width="1000" height="320" rx="20" fill="url(#bg)"/><rect width="1000" height="320" rx="20" fill="url(#grid)"/>
+<text x="32" y="35" fill="#00d4ff" font-family="monospace" font-size="15" letter-spacing="3">LINUX &amp; PYTHON // CONTRIBUTION HUNT</text>
 <g>
- <rect x="72" y="55" width="320" height="198" rx="13" fill="#091423" stroke="#1f5069" stroke-width="1.5"/>
- <text x="91" y="78" fill="#a9c9db" font-family="monospace" font-size="11">CONTRIBUTION CHART</text>
- <path d="M94 224H370M94 184H370M94 144H370M94 104H370" stroke="#1d3b50" stroke-dasharray="3 5"/>
- <rect x="108" y="91" width="39" height="133" rx="4" fill="#123b2b" stroke="#24764b"/>
- <rect x="148" y="121" width="39" height="103" rx="4" fill="#14532d" stroke="#2b8c50"/>
- <rect x="188" y="141" width="39" height="83" rx="4" fill="#166534" stroke="#39a75e"/>
- <rect x="228" y="161" width="39" height="63" rx="4" fill="#16803d" stroke="#4ade80"/>
- <rect x="268" y="181" width="39" height="43" rx="4" fill="#22a34a" stroke="#86efac"/>
- <rect x="308" y="200" width="39" height="24" rx="4" fill="#4ade80" stroke="#a3ffb8"/>
- <path d="M112 99L151 128L191 148L231 168L271 188L311 207" fill="none" stroke="#00d4ff" stroke-width="2" opacity=".65"/>
+<rect x="76" y="65" width="390" height="190" rx="14" fill="#0b1425" stroke="#23617b" stroke-width="1.5"/>
+<text x="96" y="88" fill="#b7d8e8" font-family="monospace" font-size="12">CONTRIBUTION CHART</text>
+<path d="M96 120H446M96 160H446M96 200H446M96 240H446" stroke="#254056" stroke-dasharray="4 5"/>
+<rect x="112" y="110" width="38" height="130" rx="4" fill="#0c6737"/><rect x="158" y="132" width="38" height="108" rx="4" fill="#138441"/><rect x="204" y="154" width="38" height="86" rx="4" fill="#22a852"/><rect x="250" y="176" width="38" height="64" rx="4" fill="#39c765"/><rect x="296" y="198" width="38" height="42" rx="4" fill="#5be47d"/><rect x="342" y="218" width="38" height="22" rx="4" fill="#a3ff68"/>
+<path d="M130 105L176 127L222 149L268 171L314 193L360 213" fill="none" stroke="#00d4ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<circle cx="130" cy="105" r="3" fill="#fff"/><circle cx="176" cy="127" r="3" fill="#fff"/><circle cx="222" cy="149" r="3" fill="#fff"/><circle cx="268" cy="171" r="3" fill="#fff"/><circle cx="314" cy="193" r="3" fill="#fff"/><circle cx="360" cy="213" r="3" fill="#fff"/>
 </g>
-<!-- Wi-Fi target -->
-<g transform="translate(790 164)">
- <circle r="70" fill="#071522" stroke="#14506a" stroke-width="1.5"/>
- <circle r="58" fill="none" stroke="#123c51" stroke-dasharray="3 7"/>
- <g filter="url(#glow)" stroke="url(#cyan)" stroke-width="8" stroke-linecap="round" fill="none">
-  <path d="M-49 -24Q0 -70 49 -24"/><path d="M-33 -6Q0 -38 33 -6"/><path d="M-16 12Q0 -4 16 12"/>
- </g>
- <circle cy="31" r="7" fill="#a3ff68" filter="url(#glow)"/>
- <circle cy="31" r="12" fill="none" stroke="#a3ff68" stroke-width="1.5"><animate attributeName="r" values="9;23;9" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0;.9" dur="1.8s" repeatCount="indefinite"/></circle>
+<g transform="translate(790 164)" filter="url(#glow)">
+<circle r="78" fill="#071522" stroke="#14506a" stroke-width="2"/><circle r="66" fill="none" stroke="#0c3b52" stroke-dasharray="3 7"/>
+<path d="M-52 -25Q0 -73 52 -25M-35 -7Q0 -40 35 -7M-18 11Q0 -6 18 11" fill="none" stroke="url(#cyan)" stroke-width="8" stroke-linecap="round"/>
+<circle cy="31" r="8" fill="#a3ff68"/><circle cy="31" r="14" fill="none" stroke="#a3ff68" stroke-width="2"><animate attributeName="r" values="10;25;10" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0;.9" dur="1.8s" repeatCount="indefinite"/></circle>
 </g>
-<!-- The snake's body is a moving segment on the loop path -->
+<path d="M130 98 L130 110 L176 110 L176 132 L222 132 L222 154 L268 154 L268 176 L314 176 L314 198 L360 198 L360 218 C430 270 490 252 530 205 C570 158 612 143 657 163 C690 178 705 204 736 204 C770 204 813 188 825 158 C836 130 803 115 782 136 C761 158 781 189 807 185 C837 181 844 148 823 133 C800 118 771 145 783 168 C796 191 827 180 828 159 C829 135 802 126 785 143 C765 164 789 193 812 185 C838 176 831 144 809 139 C770 130 733 153 704 185 C669 222 620 219 579 189 C538 159 503 163 472 201 C438 243 400 255 360 218 L360 198 L314 198 L314 176 L268 176 L268 154 L222 154 L222 132 L176 132 L176 110 L130 110 L130 98" fill="none" stroke="#00d4ff" stroke-width="1.5" stroke-dasharray="3 8" opacity=".45"><animate attributeName="stroke-dashoffset" from="0" to="-44" dur="2s" repeatCount="indefinite"/></path>
 <g filter="url(#glow)">
- <use href="#route" fill="none" stroke="#042c20" stroke-width="21" stroke-linecap="round" stroke-linejoin="round" opacity=".95"/>
- <use href="#route" fill="none" stroke="url(#snake)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="105 895">
-  <animate attributeName="stroke-dashoffset" values="0;-1000" dur="8s" repeatCount="indefinite"/>
- </use>
- <!-- Snake head follows the same route: descends the bars, jumps to Wi-Fi, circles, and jumps back -->
- <g>
-  <animateMotion dur="8s" repeatCount="indefinite" rotate="auto" keyPoints="0;0.32;0.57;0.77;1" keyTimes="0;0.32;0.57;0.77;1" calcMode="linear">
-   <mpath href="#route"/>
-  </animateMotion>
-  <path d="M-12 -8 Q0 -15 12 -7 L17 0 L11 9 L-5 9 L-13 3Z" fill="url(#snake)" stroke="#e3ffd2" stroke-width="1.3"/>
-  <circle cx="8" cy="-4" r="2.1" fill="#06111b"/><circle cx="8.4" cy="-4.4" r=".7" fill="#fff"/>
-  <path d="M15 1l9 2 -8 3" fill="none" stroke="#fb7185" stroke-width="1.8" stroke-linecap="round"/>
- </g>
+<g>
+<animateMotion dur="14s" repeatCount="indefinite" rotate="auto" path="M130 98 L130 110 L176 110 L176 132 L222 132 L222 154 L268 154 L268 176 L314 176 L314 198 L360 198 L360 218 C430 270 490 252 530 205 C570 158 612 143 657 163 C690 178 705 204 736 204 C770 204 813 188 825 158 C836 130 803 115 782 136 C761 158 781 189 807 185 C837 181 844 148 823 133 C800 118 771 145 783 168 C796 191 827 180 828 159 C829 135 802 126 785 143 C765 164 789 193 812 185 C838 176 831 144 809 139 C770 130 733 153 704 185 C669 222 620 219 579 189 C538 159 503 163 472 201 C438 243 400 255 360 218 L360 198 L314 198 L314 176 L268 176 L268 154 L222 154 L222 132 L176 132 L176 110 L130 110 L130 98"/>
+<path d="M-42 0 C-30 -16 -15 -16 0 0 S28 16 42 0" fill="none" stroke="#073e2b" stroke-width="22" stroke-linecap="round"/>
+<path d="M-42 0 C-30 -16 -15 -16 0 0 S28 16 42 0" fill="none" stroke="url(#snake)" stroke-width="15" stroke-linecap="round"/>
+<path d="M27 -4 Q39 -16 52 -6 L61 1 L53 12 L38 10 L29 4Z" fill="url(#snake)" stroke="#d9ffc3" stroke-width="1.5"/>
+<circle cx="49" cy="-4" r="2.6" fill="#07111c"/><circle cx="49.5" cy="-4.5" r=".9" fill="#fff"/>
+<path d="M60 2l9 2 -8 4" fill="none" stroke="#fb7185" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M-19 -7l-5 -7 10 4 M7 7l-4 8 10 -4" fill="#a3ff68"/>
 </g>
-<!-- jump arcs -->
-<path d="M325 216Q470 20 635 124" fill="none" stroke="#00d4ff" stroke-width="1.5" stroke-dasharray="4 7" opacity=".55"/>
-<path d="M635 126Q470 20 325 216" fill="none" stroke="#a3ff68" stroke-width="1.5" stroke-dasharray="4 7" opacity=".35"/>
-<text x="230" y="275" text-anchor="middle" fill="#a9bfd0" font-family="monospace" font-size="12">1. DESCEND THE CHART</text>
-<text x="790" y="258" text-anchor="middle" fill="#a9bfd0" font-family="monospace" font-size="12">2. CIRCLE THE WI-FI</text>
-<text x="500" y="302" text-anchor="middle" fill="#c4d5e4" font-family="monospace" font-size="12" letter-spacing="1">JUMP IN • LOOP AROUND • JUMP BACK • REPEAT</text>
+</g>
+<text x="270" y="280" text-anchor="middle" fill="#9bb5c8" font-family="monospace" font-size="12">1. SLITHER DOWN THE CHART</text><text x="790" y="270" text-anchor="middle" fill="#9bb5c8" font-family="monospace" font-size="12">2. CIRCLE WI-FI</text><text x="500" y="305" text-anchor="middle" fill="#c7d6e5" font-family="monospace" font-size="12" letter-spacing="1">3. JUMP BACK TO THE CHART • REPEAT</text>
 </svg>
