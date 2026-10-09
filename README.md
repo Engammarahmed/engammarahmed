@@ -71,10 +71,12 @@ I'm **Ammar Ahmed**, a technology enthusiast exploring the intersection of **Cyb
   <img src="https://streak-stats.demolab.com?user=engammarahmed&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
 </div>
 
-## 🐍 Contribution Snake
+## 🐉🐍 Linux & Python — Contribution Hunt
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/engammarahmed/engammarahmed/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/engammarahmed/engammarahmed/main/assets/contribution-dragon.svg" alt="Animated cyber dragon and Python snake with Linux and Python themes" width="100%" />
+  <br/>
+  <sub>Linux powers the dragon. Python guides the snake. Both chase every contribution.</sub>
 </div>
 
 ## 🤝 Connect
