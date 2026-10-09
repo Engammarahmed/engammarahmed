@@ -78,7 +78,7 @@ I'm **Ammar Ahmed**, a technology enthusiast exploring the intersection of **Cyb
 ## 🐍 Linux & Python — Contribution Hunt
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/engammarahmed/engammarahmed/main/assets/python-snake-wifi.svg?v=5" alt="Animated snake eats glowing food, grows longer, circles Wi-Fi, and returns to the chart" width="100%" />
+  <img src="https://raw.githubusercontent.com/engammarahmed/engammarahmed/main/assets/python-snake-wifi.svg?v=6" alt="Animated green snake eats glowing food pellets, grows longer, circles Wi-Fi, and returns to the chart" width="100%" />
   <br/>
   <sub>Eat the glowing food. Grow longer. Circle the Wi-Fi. Return to the charts.</sub>
 </div>
