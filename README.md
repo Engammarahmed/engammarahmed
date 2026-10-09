@@ -1,21 +1,17 @@
-<!-- Profile README for engammarahmed -->
-
+<!-- Animated profile README for engammarahmed -->
 <div align="center">
 
-# Ammar Ahmed
-### Cybersecurity • Networking • Data Analytics
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:12304a,100:00d4ff&height=230&section=header&text=AMMAR%20AHMED&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=CYBERSECURITY%20%7C%20NETWORKING%20%7C%20DATA%20ANALYTICS&descAlignY=56&descSize=15&animation=fadeIn" width="100%" alt="Animated cyber-themed header" />
 
-<p>
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-111827?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity focus" />
-  <img src="https://img.shields.io/badge/NETWORKING-0F766E?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/DATA_ANALYTICS-1D4ED8?style=for-the-badge&logo=powerbi&logoColor=white" alt="Data analytics" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=850&color=00D4FF&center=true&vCenter=true&width=700&lines=Learning+Cybersecurity+%26+Networking;Turning+Data+into+Insights;Building%2C+Testing%2C+Improving;Curious+Mind.+Practical+Projects." alt="Animated typing text" /></a>
 
-<p>
-  <a href="https://github.com/engammarahmed">
-    <img src="https://komarev.com/ghpvc/?username=engammarahmed&style=flat-square&color=334155&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00D4FF?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity" />
+<img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white" alt="Data analytics" />
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Always learning" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=engammarahmed&style=for-the-badge&color=12304a&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -23,77 +19,69 @@
 
 ## 👨‍💻 About Me
 
-I'm a technology student building practical skills across **cybersecurity, computer networking, and data analytics**. I enjoy understanding how systems work, analyzing data, and documenting what I learn through hands-on projects and labs.
+I'm **Ammar Ahmed**, a technology enthusiast exploring the intersection of **Cybersecurity, Networking, and Data Analytics**.
 
-- 🔐 **Cybersecurity:** learning defensive security concepts, Linux, and security fundamentals.
-- 🌐 **Networking:** studying protocols, network troubleshooting, and core networking concepts.
-- 📊 **Data Analytics:** working with Excel, Power Query, SQL, Python, and Power BI.
-- 🧪 **Approach:** learn by building, testing, documenting, and improving.
+- 🛡️ Learning security fundamentals, defensive thinking, and network analysis.
+- 🌐 Building my understanding of networking, Linux, and command-line tools.
+- 📊 Practicing data cleaning, analysis, visualization, and dashboard design.
+- 🧪 I value hands-on labs, clear documentation, and learning by building.
+- 🎯 Goal: turn what I learn into useful, well-documented projects.
 
-> *Curiosity drives the work. Consistency builds the skill.*
+> **Mindset:** Understand the system. Analyze the evidence. Improve the result.
 
-## 🧰 Technical Toolkit
+## ⚡ Technology Stack
 
 <div align="center">
 
-| Area | Tools & Technologies |
-|---|---|
-| **Data Analytics** | Excel · Power Query · Power BI · SQL |
-| **Programming** | Python · C++ |
-| **Python Data Work** | pandas · data cleaning · exploratory analysis |
-| **Systems & Networking** | Linux · Kali Linux · networking fundamentals · command line |
-| **Security Learning** | defensive security concepts · lab-based practice |
+**Security & Networking**
+
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,python&theme=dark" alt="Linux, Kali Linux, Bash and Python" />
+
+**Data & Development**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode&theme=dark" alt="Python, C++, MySQL, Git, GitHub and VS Code" />
 
 </div>
 
-## 📌 Featured Work
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20Query-5B2C91?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="Power Query" />
+</p>
 
-### 📊 Employee Overview Dashboard
-A Power BI dashboard project focused on presenting employee-related data through clear visuals and useful summaries.
+## 📌 What I'm Working Toward
 
-**Focus:** data preparation · data modeling · dashboard design · insights
-
-### 🧹 Data Cleaning & Analysis Practice
-Hands-on practice identifying missing values, duplicates, inconsistent formats, and other data-quality issues before analysis.
-
-**Focus:** Excel · Python/pandas · data quality
-
-### 🐍 Python Data Projects
-Small exercises and projects exploring data processing, analysis, and introductory machine-learning workflows.
-
-**Focus:** Python · pandas · exploratory analysis
-
-### 🌐 Networking & Security Labs
-Learning notes and practical exercises covering Linux, networking fundamentals, and defensive cybersecurity concepts.
-
-**Focus:** networking · Linux CLI · security fundamentals
-
-> Project descriptions reflect learning and practice. I'll add individual repositories here as each project is published.
+| Track | Current direction |
+|---|---|
+| 🛡️ Cybersecurity | Security fundamentals, defensive analysis, and ethical lab practice |
+| 🌐 Networking | Protocols, traffic analysis, and Linux networking tools |
+| 📊 Data Analytics | Data cleaning, SQL, Excel, Power Query, and Power BI dashboards |
+| 🧰 Development | Python automation and practical tools with clear documentation |
 
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=engammarahmed&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engammarahmed&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=engammarahmed&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engammarahmed&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Most used programming languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=engammarahmed&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=engammarahmed&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
 </div>
 
-## 🎯 Current Direction
+## 🐍 Contribution Snake
 
-- Strengthening networking and defensive security fundamentals.
-- Building useful data-analysis projects with clean documentation.
-- Improving Python, SQL, and dashboarding skills.
-- Turning practice into reproducible projects others can explore.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/engammarahmed/engammarahmed/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+</div>
 
 ## 🤝 Connect
 
-- **GitHub:** [@engammarahmed](https://github.com/engammarahmed)
-
 <div align="center">
-
-*Build. Analyze. Secure. Repeat.*
-
+<a href="https://github.com/engammarahmed"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+<br/><br/>
+<sub>⚡ Built with curiosity, consistency, and a love for technology.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,55:12304a,100:0b1020&height=100&section=footer" width="100%" alt="Decorative footer wave" />
 </div>
