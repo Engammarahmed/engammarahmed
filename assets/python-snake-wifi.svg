@@ -18,6 +18,13 @@
 <path d="M130 105L176 127L222 149L268 171L314 193L360 213" fill="none" stroke="#00d4ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
 <circle cx="130" cy="105" r="3" fill="#fff"/><circle cx="176" cy="127" r="3" fill="#fff"/><circle cx="222" cy="149" r="3" fill="#fff"/><circle cx="268" cy="171" r="3" fill="#fff"/><circle cx="314" cy="193" r="3" fill="#fff"/><circle cx="360" cy="213" r="3" fill="#fff"/>
 </g>
+<!-- Glowing food pellets: they blink out when the snake reaches them -->
+<g filter="url(#glow)" fill="#ffcc66" stroke="#fff0a6" stroke-width="1.5">
+<circle cx="130" cy="98" r="6"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.08;.12;.9;1" dur="14s" repeatCount="indefinite"/><animate attributeName="r" values="6;8;2;2;6" keyTimes="0;.08;.12;.9;1" dur="14s" repeatCount="indefinite"/></circle>
+<circle cx="222" cy="145" r="6"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.22;.27;.9;1" dur="14s" repeatCount="indefinite"/><animate attributeName="r" values="6;8;2;2;6" keyTimes="0;.22;.27;.9;1" dur="14s" repeatCount="indefinite"/></circle>
+<circle cx="314" cy="190" r="6"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.36;.41;.9;1" dur="14s" repeatCount="indefinite"/><animate attributeName="r" values="6;8;2;2;6" keyTimes="0;.36;.41;.9;1" dur="14s" repeatCount="indefinite"/></circle>
+<circle cx="790" cy="164" r="6"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.58;.64;.9;1" dur="14s" repeatCount="indefinite"/><animate attributeName="r" values="6;8;2;2;6" keyTimes="0;.58;.64;.9;1" dur="14s" repeatCount="indefinite"/></circle>
+</g>
 <g transform="translate(790 164)" filter="url(#glow)">
 <circle r="78" fill="#071522" stroke="#14506a" stroke-width="2"/><circle r="66" fill="none" stroke="#0c3b52" stroke-dasharray="3 7"/>
 <path d="M-52 -25Q0 -73 52 -25M-35 -7Q0 -40 35 -7M-18 11Q0 -6 18 11" fill="none" stroke="url(#cyan)" stroke-width="8" stroke-linecap="round"/>
