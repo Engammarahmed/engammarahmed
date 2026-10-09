@@ -74,9 +74,9 @@ I'm **Ammar Ahmed**, a technology enthusiast exploring the intersection of **Cyb
 ## 🐍 Linux & Python — Contribution Hunt
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/engammarahmed/engammarahmed/main/assets/python-snake-wifi.svg?v=2" alt="Animated Python snake sliding from analytics charts into a glowing Wi-Fi network" width="100%" />
+  <img src="https://raw.githubusercontent.com/engammarahmed/engammarahmed/main/assets/python-snake-wifi.svg?v=3" alt="Animated Python snake sliding from analytics charts into a glowing Wi-Fi network" width="100%" />
   <br/>
-  <sub>A Python snake slithers down from the charts and curls into the Wi-Fi network.</sub>
+  <sub>The snake descends the chart steps, circles the Wi-Fi signal, then jumps back to the chart in a loop.</sub>
 </div>
 
 ## 🤝 Connect
