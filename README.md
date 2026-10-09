@@ -71,12 +71,12 @@ I'm **Ammar Ahmed**, a technology enthusiast exploring the intersection of **Cyb
   <img src="https://streak-stats.demolab.com?user=engammarahmed&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
 </div>
 
-## 🐉🐍 Linux & Python — Contribution Hunt
+## 🐍 Linux & Python — Contribution Hunt
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/engammarahmed/engammarahmed/main/assets/contribution-dragon.svg" alt="Animated Python snake descending from analytics charts into a Wi-Fi network" width="100%" />
+  <img src="https://raw.githubusercontent.com/engammarahmed/engammarahmed/main/assets/python-snake-wifi.svg?v=2" alt="Animated Python snake sliding from analytics charts into a glowing Wi-Fi network" width="100%" />
   <br/>
-  <sub>A Python-inspired snake slides from analytics charts into a glowing Wi-Fi network.</sub>
+  <sub>A Python snake slithers down from the charts and curls into the Wi-Fi network.</sub>
 </div>
 
 ## 🤝 Connect
