@@ -46,12 +46,12 @@
 Networking libraries, data analysis, and website testing
 </td>
 <td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash"/><br/>
+<img width="100" height="100" src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash"/><br/>
 <strong>BASH</strong><br/>
 Terminal workflows and long scripts for networking, data transfer, and device management
 </td>
 <td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/><br/>
+<img width="100" height="100" src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/><br/>
 <strong>LINUX</strong><br/>
 System administration through root-level workflows and network protocols
 </td>
@@ -77,7 +77,7 @@ System administration through root-level workflows and network protocols
 <div align="center">
 
 <img width="100" height="100" src="https://img.shields.io/badge/Wi--Fi-181818?style=for-the-badge&logo=wifi&logoColor=FF263F" alt="Wi-Fi"/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+<img width="100" height="100" src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
 
 <br/><br/>
 
