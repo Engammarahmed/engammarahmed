@@ -41,7 +41,7 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/><br/>
+<img width="30" height="30" src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/><br/>
 <strong>PYTHON</strong><br/>
 Networking libraries, data analysis, and website testing
 </td>
@@ -76,7 +76,7 @@ System administration through root-level workflows and network protocols
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Wi--Fi-181818?style=for-the-badge&logo=wifi&logoColor=FF263F" alt="Wi-Fi"/>
+<img width="30" height="30" src="https://img.shields.io/badge/Wi--Fi-181818?style=for-the-badge&logo=wifi&logoColor=FF263F" alt="Wi-Fi"/>
 <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
 
 <br/><br/>
