@@ -1,237 +1,126 @@
-<!-- AMMAR AHMED | RED HACKER EDITION | engammarahmed -->
+<!-- AMMAR AHMED | RED HACKER EDITION -->
 
 <div align="center">
 
-# <span style="color:#ff263f">AMMAR AHMED</span>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B0000&height=180&section=header&text=AMMAR%20AHMED&fontSize=48&fontColor=8B0000&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20NETWORKING%20%7C%20DATA%20ANALYTICS&descAlignY=60&descSize=16" alt="Dark red animated wave header"/>
 
-### `CYBERSECURITY // NETWORKING // DATA ANALYTICS`
-
-<img src="https://img.shields.io/badge/ACCESS-ENGAMMARAHMED-111111?style=for-the-badge&logo=github&logoColor=FF263F" alt="GitHub engammarahmed"/>
-<img src="https://img.shields.io/badge/STATUS-LEARNING-8B0000?style=for-the-badge&logo=linux&logoColor=white" alt="Learning"/>
-<img src="https://img.shields.io/badge/MODE-BUILD%20%26%20ANALYZE-111111?style=for-the-badge&logo=codefactor&logoColor=FF263F" alt="Build and analyze"/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=FF263F)](https://github.com/engammarahmed)
-[![Repositories](https://img.shields.io/badge/Explore-Repositories-8B0000?style=flat-square&logo=git&logoColor=white)](https://github.com/engammarahmed?tab=repositories)
-
-</div>
-
----
-
-## `02 // SKILL MATRIX`
-
-<div align="center">
-
-<img width="50%" src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-RED%20HACKER%20ARSENAL-111111?style=for-the-badge&labelColor=080808&color=8B0000" alt="Red Hacker Arsenal"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/01-CYBERSECURITY-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
-<img src="https://img.shields.io/badge/02-NETWORKING-8B0000?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
-<img src="https://img.shields.io/badge/03-PROGRAMMING-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Programming"/>
-<img src="https://img.shields.io/badge/04-DATA%20ANALYTICS-8B0000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Data Analytics"/>
-
-</div>
-
----
-
-### CYBERSECURITY & SECURITY LABS
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/><br/>
-<strong>PYTHON</strong><br/>
-Networking libraries, data analysis, and website testing
-</td>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash"/><br/>
-<strong>BASH</strong><br/>
-Terminal workflows and long scripts for networking, data transfer, and device management
-</td>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/><br/>
-<strong>LINUX</strong><br/>
-System administration through root-level workflows and network protocols
-</td>
-</tr>
-</table>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SECURITY%20FUNDAMENTALS-8B0000?style=for-the-badge&logo=owasp&logoColor=white" alt="Security fundamentals"/>
-<img src="https://img.shields.io/badge/DEFENSIVE%20ANALYSIS-181818?style=for-the-badge&logo=shield&logoColor=FF263F" alt="Defensive analysis"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=700&color=8B0000&center=true&vCenter=true&width=650&lines=Cybersecurity+%2F%2F+Networking;Python+%2F%2F+C%2B%2B+%2F%2F+Automation;Data+Analytics+%2F%2F+Visualization;Learn+%E2%80%A2+Build+%E2%80%A2+Analyze+%E2%80%A2+Improve" alt="Animated typing text"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/PACKET%20INSPECTION-181818?style=for-the-badge&logo=wireshark&logoColor=FF263F" alt="Packet inspection"/>
-<img src="https://img.shields.io/badge/ETHICAL%20LABS-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ethical labs"/>
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-5B0000?style=for-the-badge&labelColor=080808&logo=kalilinux&logoColor=8B0000" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/DOMAIN-NETWORKING-5B0000?style=for-the-badge&labelColor=080808&logo=cisco&logoColor=8B0000" alt="Networking"/>
+<img src="https://img.shields.io/badge/BUILD-DATA%20ANALYTICS-5B0000?style=for-the-badge&labelColor=080808&logo=powerbi&logoColor=8B0000" alt="Data analytics"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-engammarahmed-5B0000?style=flat-square&logo=github&logoColor=white)](https://github.com/engammarahmed)
+[![Repositories](https://img.shields.io/badge/Explore-Repositories-5B0000?style=flat-square&logo=git&logoColor=white)](https://github.com/engammarahmed?tab=repositories)
 
 </div>
 
 ---
 
-### NETWORKING & PROTOCOLS
+## 🟥 OPERATOR PROFILE
+
+- Focused on **Cybersecurity, Networking, and Data Analytics**.
+- Building practical tools and learning through hands-on projects and labs.
+- Interested in network protocols, packet analysis, automation, and visualization.
+- Main languages and tools: **Python, C++, Bash, SQL, Excel, and Power BI**.
+
+---
+
+## 🧰 TECH ARSENAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=wifi,python&theme=dark&perline=2" alt="Wi-Fi and Python"/>
+### Cybersecurity & Networking
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/TCP%2FIP-CC0000?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP IP"/>
-<img src="https://img.shields.io/badge/DNS-181818?style=for-the-badge&logo=cloudflare&logoColor=FF263F" alt="DNS"/>
-<img src="https://img.shields.io/badge/ARP-181818?style=for-the-badge&logo=linux&logoColor=FF263F" alt="ARP"/>
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,python&theme=dark" alt="Linux, Kali, Bash and Python"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/ICMP-181818?style=for-the-badge&logo=serverfault&logoColor=FF263F" alt="ICMP"/>
-<img src="https://img.shields.io/badge/SCAPY-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Scapy"/>
-<img src="https://img.shields.io/badge/NETWORK%20DIAGNOSTICS-181818?style=for-the-badge&logo=wireshark&logoColor=FF263F" alt="Network diagnostics"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-5B0000?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP/IP"/>
+<img src="https://img.shields.io/badge/DNS-181818?style=for-the-badge&logo=cloudflare&logoColor=8B0000" alt="DNS"/>
+<img src="https://img.shields.io/badge/ARP-181818?style=for-the-badge&logo=linux&logoColor=8B0000" alt="ARP"/>
+<img src="https://img.shields.io/badge/ICMP-181818?style=for-the-badge&logo=wireshark&logoColor=8B0000" alt="ICMP"/>
+<img src="https://img.shields.io/badge/SCAPY-5B0000?style=for-the-badge&logo=python&logoColor=white" alt="Scapy"/>
 
-</div>
+### Programming & Development
 
----
-
-### PROGRAMMING & AUTOMATION
-
-<div align="center">
-
-<img width="50%" src="https://skillicons.dev/icons?i=cpp,qt&theme=dark&perline=2" alt="Python, C++, Bash and Qt"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/BASH-181818?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/PYSIDE6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6"/>
-<img src="https://img.shields.io/badge/SCAPY-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Scapy"/>
-
-</div>
-
----
-
-### DATA ANALYTICS & VISUALIZATION
-
-<div align="center">
-
-<img width="50%" src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=1" alt="Python and MySQL for analytics"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/MATPLOTLIB-CC3333?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/POWER%20QUERY-7B2CBF?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query"/>
-
-</div>
-
----
-
-### TOOLS, PLATFORMS & ENVIRONMENTS
-
-<div align="center">
-
-<img width="50%" src="https://skillicons.dev/icons?i=windows,git,github,vscode&theme=dark&perline=4" alt="Windows, Linux, Git, GitHub, VS Code and MySQL"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/TERMINAL-181818?style=for-the-badge&logo=windowsterminal&logoColor=FF263F" alt="Terminal"/>
-<img src="https://img.shields.io/badge/GIT-181818?style=for-the-badge&logo=git&logoColor=FF263F" alt="Git"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=FF263F" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS%20CODE-181818?style=for-the-badge&logo=visualstudiocode&logoColor=FF263F" alt="VS Code"/>
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-
-<br/><br/>
-
-<img width="50%" src="https://img.shields.io/badge/LEARN%20%2F%2F%20BUILD%20%2F%2F%20ANALYZE%20%2F%2F%20IMPROVE-FF263F?style=for-the-badge&labelColor=080808&color=8B0000" alt="Learn build analyze improve"/>
-
-</div>
-
----
-
-## `03 // CURRENT OPERATIONS`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Cybersecurity
-
-- Security fundamentals
-- Defensive security concepts
-- Packet inspection
-- Ethical lab practice
-
-</td>
-<td width="50%" valign="top">
-
-### Networking
-
-- TCP/IP fundamentals
-- DNS, ARP, and ICMP
-- Network troubleshooting
-- Traffic analysis
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=python,cpp,qt,vscode,git,github&theme=dark" alt="Python, C++, Qt, VS Code, Git and GitHub"/>
 
 ### Data Analytics
 
-- Data cleaning
-- Excel and Power Query
-- SQL analysis
-- Power BI dashboards
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### Development
-
-- Python automation
-- C++ programming
-- Desktop utilities
-- Git and documentation
-
-</td>
-</tr>
-</table>
-
----
-
-## `05 // GITHUB STATISTICS`
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=engammarahmed&show_icons=true&hide_border=true&bg_color=080808&title_color=FF263F&icon_color=FF263F&text_color=E5E5E5&rank_icon=github" alt="GitHub statistics"/>
+<img src="https://img.shields.io/badge/EXCEL-181818?style=for-the-badge&logo=microsoftexcel&logoColor=8B0000" alt="Excel"/>
+<img src="https://img.shields.io/badge/POWER%20BI-181818?style=for-the-badge&logo=powerbi&logoColor=8B0000" alt="Power BI"/>
+<img src="https://img.shields.io/badge/SQL-181818?style=for-the-badge&logo=mysql&logoColor=8B0000" alt="SQL"/>
+<img src="https://img.shields.io/badge/PANDAS-181818?style=for-the-badge&logo=pandas&logoColor=8B0000" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NUMPY-181818?style=for-the-badge&logo=numpy&logoColor=8B0000" alt="NumPy"/>
 
 </div>
 
+---
+
+## 🎯 ACTIVE MISSION OBJECTIVES
+
+| Area | Current Focus |
+|---|---|
+| **Cybersecurity** | Security fundamentals, defensive concepts, and ethical lab practice |
+| **Networking** | TCP/IP, DNS, ARP, ICMP, packet inspection, and troubleshooting |
+| **Programming** | Python automation, C++, Bash, and desktop utilities |
+| **Data Analytics** | Data cleaning, Excel, SQL, Power Query, and Power BI dashboards |
 
 ---
 
-## `06 // CONTRIBUTION MATRIX`
+## 🚀 FEATURED PROJECTS
+
+- **NetScope** — a desktop packet-inspection tool built with Python, Scapy, and PySide6.
+- **NetOps Hub** — an all-in-one network toolkit concept with diagnostics and monitoring.
+- **Nexora** — a chat application project focused on accounts, messaging, and PostgreSQL.
+- **Data Analytics Projects** — data cleaning, statistical analysis, and dashboard practice.
+
+---
+
+## 📊 GITHUB TELEMETRY
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=engammarahmed&show_icons=true&hide_border=true&bg_color=0D0000&title_color=8B0000&icon_color=8B0000&text_color=E6E6E6&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engammarahmed&layout=compact&hide_border=true&bg_color=0D0000&title_color=8B0000&text_color=E6E6E6" alt="Top languages"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=engammarahmed&hide_border=true&background=0D0000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=999999" alt="GitHub streak statistics"/>
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION MATRIX
 
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/engammarahmed/engammarahmed/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+## 🤝 ESTABLISH CONNECTION
+
+<div align="center">
+
+<a href="https://github.com/engammarahmed">
+  <img src="https://img.shields.io/badge/GitHub-Follow-5B0000?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0000&height=100&section=footer" width="100%" alt="Dark red wave footer"/>
+
+**LEARN • BUILD • ANALYZE • IMPROVE**
 
 </div>
