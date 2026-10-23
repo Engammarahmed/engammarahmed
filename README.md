@@ -17,29 +17,6 @@
 
 ---
 
-## `01 // OPERATOR PROFILE`
-
-```text
-USER       : AMMAR AHMED
-HANDLE     : engammarahmed
-FOCUS      : CYBERSECURITY / NETWORKING / DATA ANALYTICS
-ENVIRONMENT: WINDOWS / LINUX
-LANGUAGES  : PYTHON / C++
-MISSION    : LEARN. BUILD. ANALYZE. IMPROVE.
-```
-
-I'm Ammar Ahmed, a technology enthusiast exploring cybersecurity, networking, and data analytics through practical learning, experimentation, and project development.
-
-- 🛡️ Exploring security fundamentals and defensive analysis.
-- 🌐 Learning network protocols, traffic analysis, and Linux tools.
-- 📊 Turning data into insights with Excel, SQL, and Power BI.
-- ⚙️ Building Python utilities and documenting technical projects.
-- 🔴 Focused on understanding systems, solving problems, and improving every day.
-
-> **THINK DEEPLY. TEST RESPONSIBLY. DOCUMENT EVERYTHING.**
-
----
-
 ## `02 // SKILL MATRIX`
 
 <div align="center">
