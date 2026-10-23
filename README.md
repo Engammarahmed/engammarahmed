@@ -38,7 +38,25 @@
 
 <div align="center">
 
-<img width="50%" src="https://skillicons.dev/icons?i=kalilinux,linux,bash,python&theme=dark&perline=4" alt="Kali Linux, Linux, Bash and Python"/>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/><br/>
+<strong>PYTHON</strong><br/>
+Networking libraries, data analysis, and website testing
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash"/><br/>
+<strong>BASH</strong><br/>
+Terminal workflows and long scripts for networking, data transfer, and device management
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/><br/>
+<strong>LINUX</strong><br/>
+System administration through root-level workflows and network protocols
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
@@ -58,7 +76,7 @@
 
 <div align="center">
 
-<img width="50%" src="https://skillicons.dev/icons?i=cisco,linux,wireshark&theme=dark&perline=3" alt="Networking technologies"/>
+<img width="50%" src="https://skillicons.dev/icons?i=cisco,wireshark&theme=dark&perline=2" alt="Networking technologies"/>
 
 <br/><br/>
 
@@ -80,7 +98,7 @@
 
 <div align="center">
 
-<img width="50%" src="https://skillicons.dev/icons?i=python,cpp,bash,qt&theme=dark&perline=4" alt="Python, C++, Bash and Qt"/>
+<img width="50%" src="https://skillicons.dev/icons?i=cpp,qt&theme=dark&perline=2" alt="Python, C++, Bash and Qt"/>
 
 <br/><br/>
 
@@ -101,7 +119,7 @@
 
 <div align="center">
 
-<img width="50%" src="https://skillicons.dev/icons?i=python,mysql&theme=dark&perline=2" alt="Python and MySQL for analytics"/>
+<img width="50%" src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=1" alt="Python and MySQL for analytics"/>
 
 <br/><br/>
 
@@ -127,7 +145,7 @@
 
 <div align="center">
 
-<img width="50%" src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,mysql&theme=dark&perline=3" alt="Windows, Linux, Git, GitHub, VS Code and MySQL"/>
+<img width="50%" src="https://skillicons.dev/icons?i=windows,git,github,vscode&theme=dark&perline=4" alt="Windows, Linux, Git, GitHub, VS Code and MySQL"/>
 
 <br/><br/>
 
