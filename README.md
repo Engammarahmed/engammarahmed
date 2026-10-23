@@ -6,9 +6,9 @@
 
 ### `CYBERSECURITY // NETWORKING // DATA ANALYTICS`
 
-<img src="https://img.shields.io/badge/ACCESS-ENGAMMARAHMED-111111?style=for-the-badge&logo=github&logoColor=FF263F" alt="GitHub engammarahmed"/>
-<img src="https://img.shields.io/badge/STATUS-LEARNING-8B0000?style=for-the-badge&logo=linux&logoColor=white" alt="Learning"/>
-<img src="https://img.shields.io/badge/MODE-BUILD%20%26%20ANALYZE-111111?style=for-the-badge&logo=codefactor&logoColor=FF263F" alt="Build and analyze"/>
+<img width="100" height="100" src="https://img.shields.io/badge/ACCESS-ENGAMMARAHMED-111111?style=for-the-badge&logo=github&logoColor=FF263F" alt="GitHub engammarahmed"/>
+<img width="100" height="100" src="https://img.shields.io/badge/STATUS-LEARNING-8B0000?style=for-the-badge&logo=linux&logoColor=white" alt="Learning"/>
+<img width="100" height="100" src="https://img.shields.io/badge/MODE-BUILD%20%26%20ANALYZE-111111?style=for-the-badge&logo=codefactor&logoColor=FF263F" alt="Build and analyze"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=FF263F)](https://github.com/engammarahmed)
 [![Repositories](https://img.shields.io/badge/Explore-Repositories-8B0000?style=flat-square&logo=git&logoColor=white)](https://github.com/engammarahmed?tab=repositories)
@@ -25,10 +25,10 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/01-CYBERSECURITY-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
-<img src="https://img.shields.io/badge/02-NETWORKING-8B0000?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
-<img src="https://img.shields.io/badge/03-PROGRAMMING-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Programming"/>
-<img src="https://img.shields.io/badge/04-DATA%20ANALYTICS-8B0000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Data Analytics"/>
+<img width="100" height="100" src="https://img.shields.io/badge/01-CYBERSECURITY-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
+<img width="100" height="100" src="https://img.shields.io/badge/02-NETWORKING-8B0000?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+<img width="100" height="100" src="https://img.shields.io/badge/03-PROGRAMMING-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Programming"/>
+<img width="100" height="100" src="https://img.shields.io/badge/04-DATA%20ANALYTICS-8B0000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Data Analytics"/>
 
 </div>
 
@@ -60,13 +60,13 @@ System administration through root-level workflows and network protocols
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SECURITY%20FUNDAMENTALS-8B0000?style=for-the-badge&logo=owasp&logoColor=white" alt="Security fundamentals"/>
-<img src="https://img.shields.io/badge/DEFENSIVE%20ANALYSIS-181818?style=for-the-badge&logo=shield&logoColor=FF263F" alt="Defensive analysis"/>
+<img width="100" height="100" src="https://img.shields.io/badge/SECURITY%20FUNDAMENTALS-8B0000?style=for-the-badge&logo=owasp&logoColor=white" alt="Security fundamentals"/>
+<img width="100" height="100" src="https://img.shields.io/badge/DEFENSIVE%20ANALYSIS-181818?style=for-the-badge&logo=shield&logoColor=FF263F" alt="Defensive analysis"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/PACKET%20INSPECTION-181818?style=for-the-badge&logo=wireshark&logoColor=FF263F" alt="Packet inspection"/>
-<img src="https://img.shields.io/badge/ETHICAL%20LABS-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ethical labs"/>
+<img width="100" height="100" src="https://img.shields.io/badge/PACKET%20INSPECTION-181818?style=for-the-badge&logo=wireshark&logoColor=FF263F" alt="Packet inspection"/>
+<img width="100" height="100" src="https://img.shields.io/badge/ETHICAL%20LABS-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ethical labs"/>
 
 </div>
 
@@ -81,15 +81,15 @@ System administration through root-level workflows and network protocols
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/TCP%2FIP-CC0000?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP IP"/>
-<img src="https://img.shields.io/badge/DNS-181818?style=for-the-badge&logo=cloudflare&logoColor=FF263F" alt="DNS"/>
-<img src="https://img.shields.io/badge/ARP-181818?style=for-the-badge&logo=linux&logoColor=FF263F" alt="ARP"/>
+<img width="100" height="100" src="https://img.shields.io/badge/TCP%2FIP-CC0000?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP IP"/>
+<img width="100" height="100" src="https://img.shields.io/badge/DNS-181818?style=for-the-badge&logo=cloudflare&logoColor=FF263F" alt="DNS"/>
+<img width="100" height="100" src="https://img.shields.io/badge/ARP-181818?style=for-the-badge&logo=linux&logoColor=FF263F" alt="ARP"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/ICMP-181818?style=for-the-badge&logo=serverfault&logoColor=FF263F" alt="ICMP"/>
-<img src="https://img.shields.io/badge/SCAPY-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Scapy"/>
-<img src="https://img.shields.io/badge/NETWORK%20DIAGNOSTICS-181818?style=for-the-badge&logo=wireshark&logoColor=FF263F" alt="Network diagnostics"/>
+<img width="100" height="100" src="https://img.shields.io/badge/ICMP-181818?style=for-the-badge&logo=serverfault&logoColor=FF263F" alt="ICMP"/>
+<img width="100" height="100" src="https://img.shields.io/badge/SCAPY-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Scapy"/>
+<img width="100" height="100" src="https://img.shields.io/badge/NETWORK%20DIAGNOSTICS-181818?style=for-the-badge&logo=wireshark&logoColor=FF263F" alt="Network diagnostics"/>
 
 </div>
 
@@ -99,18 +99,18 @@ System administration through root-level workflows and network protocols
 
 <div align="center">
 
-<img width="50%" src="https://skillicons.dev/icons?i=cpp,qt&theme=dark&perline=2" alt="Python, C++, Bash and Qt"/>
+<img width="100" height="100"  src="https://skillicons.dev/icons?i=cpp,qt&theme=dark&perline=2" alt="Python, C++, Bash and Qt"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img width="100" height="100" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img width="100" height="100" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/BASH-181818?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/PYSIDE6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6"/>
-<img src="https://img.shields.io/badge/SCAPY-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Scapy"/>
+<img width="100" height="100" src="https://img.shields.io/badge/BASH-181818?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+<img width="100" height="100" src="https://img.shields.io/badge/PYSIDE6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6"/>
+<img width="100" height="100" src="https://img.shields.io/badge/SCAPY-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Scapy"/>
 
 </div>
 
@@ -120,23 +120,23 @@ System administration through root-level workflows and network protocols
 
 <div align="center">
 
-<img width="50%" src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=1" alt="Python and MySQL for analytics"/>
+<img width="100" height="100"  src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=1" alt="Python and MySQL for analytics"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img width="100" height="100" src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img width="100" height="100" src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img width="100" height="100" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img width="100" height="100" src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img width="100" height="100" src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/MATPLOTLIB-CC3333?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/POWER%20QUERY-7B2CBF?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query"/>
+<img width="100" height="100" src="https://img.shields.io/badge/MATPLOTLIB-CC3333?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img width="100" height="100" src="https://img.shields.io/badge/POWER%20QUERY-7B2CBF?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query"/>
 
 </div>
 
@@ -146,18 +146,18 @@ System administration through root-level workflows and network protocols
 
 <div align="center">
 
-<img width="50%" src="https://skillicons.dev/icons?i=windows,git,github,vscode&theme=dark&perline=4" alt="Windows, Linux, Git, GitHub, VS Code and MySQL"/>
+<img width="100" height="100"  src="https://skillicons.dev/icons?i=windows,git,github,vscode&theme=dark&perline=4" alt="Windows, Linux, Git, GitHub, VS Code and MySQL"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/TERMINAL-181818?style=for-the-badge&logo=windowsterminal&logoColor=FF263F" alt="Terminal"/>
-<img src="https://img.shields.io/badge/GIT-181818?style=for-the-badge&logo=git&logoColor=FF263F" alt="Git"/>
+<img width="100" height="100" src="https://img.shields.io/badge/TERMINAL-181818?style=for-the-badge&logo=windowsterminal&logoColor=FF263F" alt="Terminal"/>
+<img width="100" height="100" src="https://img.shields.io/badge/GIT-181818?style=for-the-badge&logo=git&logoColor=FF263F" alt="Git"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=FF263F" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS%20CODE-181818?style=for-the-badge&logo=visualstudiocode&logoColor=FF263F" alt="VS Code"/>
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img width="100" height="100" src="https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=FF263F" alt="GitHub"/>
+<img width="100" height="100" src="https://img.shields.io/badge/VS%20CODE-181818?style=for-the-badge&logo=visualstudiocode&logoColor=FF263F" alt="VS Code"/>
+<img width="100" height="100" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
 <br/><br/>
 
