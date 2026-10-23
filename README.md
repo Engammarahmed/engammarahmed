@@ -1,25 +1,17 @@
-<!--
-  AMMAR AHMED | RED HACKER EDITION
-  GitHub: engammarahmed
--->
+<!-- AMMAR AHMED | RED HACKER EDITION | engammarahmed -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:180309,75:65000B,100:FF173D&height=230&section=header&text=AMMAR%20AHMED&fontSize=48&fontColor=FF263F&fontAlignY=35&animation=fadeIn&desc=CYBERSECURITY%20%7C%20NETWORKING%20%7C%20DATA%20ANALYTICS&descSize=13&descColor=E5E5E5&descAlignY=57" alt="Red Hacker animated header"/>
+# <span style="color:#ff263f">AMMAR AHMED</span>
 
-<br/>
+### `CYBERSECURITY // NETWORKING // DATA ANALYTICS`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=700&color=FF263F&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+AMMAR.exe;%3E+ESTABLISHING+SECURE+SESSION...;%3E+CYBERSECURITY+%2F%2F+NETWORKING;%3E+DATA+ANALYTICS+%2F%2F+PYTHON;%3E+ACCESS+GRANTED+%5BENGAMMARAHMED%5D" alt="Animated red terminal text"/>
+<img src="https://img.shields.io/badge/ACCESS-ENGAMMARAHMED-111111?style=for-the-badge&logo=github&logoColor=FF263F" alt="GitHub engammarahmed"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-8B0000?style=for-the-badge&logo=linux&logoColor=white" alt="Learning"/>
+<img src="https://img.shields.io/badge/MODE-BUILD%20%26%20ANALYZE-111111?style=for-the-badge&logo=codefactor&logoColor=FF263F" alt="Build and analyze"/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING-FF263F?style=for-the-badge&logo=linux&logoColor=white" alt="Learning status"/>
-<img src="https://img.shields.io/badge/MODE-BUILD%20%26%20ANALYZE-181818?style=for-the-badge&logo=github&logoColor=FF263F" alt="Build and analyze"/>
-<img src="https://img.shields.io/badge/FOCUS-TECHNOLOGY-8B0000?style=for-the-badge&logo=codefactor&logoColor=white" alt="Technology focus"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=engammarahmed&style=for-the-badge&color=8B0000&label=PROFILE+VISITS" alt="Profile visit counter"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=FF263F)](https://github.com/engammarahmed)
+[![Repositories](https://img.shields.io/badge/Explore-Repositories-8B0000?style=flat-square&logo=git&logoColor=white)](https://github.com/engammarahmed?tab=repositories)
 
 </div>
 
@@ -56,13 +48,9 @@ I'm Ammar Ahmed, a technology enthusiast exploring cybersecurity, networking, an
 
 <img src="https://skillicons.dev/icons?i=linux,kali,bash,python&theme=dark" alt="Linux, Kali Linux, Bash and Python"/>
 
-<br/><br/>
-
 ### `> PROGRAMMING & DEVELOPMENT`
 
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode&theme=dark" alt="Python, C++, MySQL, Git, GitHub and VS Code"/>
-
-<br/><br/>
 
 ### `> DATA ANALYTICS`
 
@@ -132,9 +120,7 @@ I'm Ammar Ahmed, a technology enthusiast exploring cybersecurity, networking, an
 
 <div align="center">
 
-<a href="https://github.com/engammarahmed?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-FF263F?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
+[![Explore repositories](https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-FF263F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engammarahmed?tab=repositories)
 
 </div>
 
@@ -164,15 +150,11 @@ A data analytics project focused on exploring employee data and presenting insig
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=engammarahmed&show_icons=true&hide_border=true&bg_color=080808&title_color=FF263F&icon_color=FF263F&text_color=E5E5E5&rank_icon=github" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engammarahmed&layout=compact&hide_border=true&bg_color=080808&title_color=FF263F&text_color=E5E5E5&langs_count=6&hide=html,css&custom_title=LANGUAGE%20BREAKDOWN" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=engammarahmed&hide_border=true&background=080808&ring=FF263F&fire=FF263F&currStreakLabel=FF263F&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" alt="GitHub contribution streak"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=engammarahmed&show_icons=true&hide_border=true&bg_color=080808&title_color=FF263F&icon_color=FF263F&text_color=E5E5E5&rank_icon=github" alt="GitHub statistics"/>
 
 </div>
+
+> The language and streak cards were removed because the screenshots showed missing images and no language data. This avoids broken-image icons. The statistics card is hosted externally and may occasionally be unavailable.
 
 ---
 
@@ -190,11 +172,7 @@ A data analytics project focused on exploring employee data and presenting insig
 
 <div align="center">
 
-<a href="https://github.com/engammarahmed">
-<img src="https://img.shields.io/badge/GITHUB-ENGAMMARAHMED-181818?style=for-the-badge&logo=github&logoColor=FF263F" alt="GitHub profile"/>
-</a>
-
-<br/><br/>
+[![GitHub profile](https://img.shields.io/badge/GITHUB-ENGAMMARAHMED-181818?style=for-the-badge&logo=github&logoColor=FF263F)](https://github.com/engammarahmed)
 
 ```text
 [ SESSION ACTIVE ]
@@ -202,8 +180,6 @@ A data analytics project focused on exploring employee data and presenting insig
 [ KEEP BUILDING   ]
 [ NEVER STOP      ]
 ```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF173D,45:65000B,100:000000&height=120&section=footer" alt="Red animated footer"/>
 
 <sub>BUILT WITH CURIOSITY. POWERED BY CONSISTENCY.</sub>
 
