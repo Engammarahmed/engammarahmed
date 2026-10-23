@@ -76,7 +76,7 @@ System administration through root-level workflows and network protocols
 
 <div align="center">
 
-<img width="50%" src="https://skillicons.dev/icons?i=cisco,wireshark&theme=dark&perline=2" alt="Networking technologies"/>
+<img src="https://skillicons.dev/icons?i=wifi,python&theme=dark&perline=2" alt="Wi-Fi and Python"/>
 
 <br/><br/>
 
