@@ -76,7 +76,8 @@ System administration through root-level workflows and network protocols
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=wifi,python&theme=dark&perline=2" alt="Wi-Fi and Python"/>
+<img src="https://img.shields.io/badge/Wi--Fi-181818?style=for-the-badge&logo=wifi&logoColor=FF263F" alt="Wi-Fi"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
 
 <br/><br/>
 
