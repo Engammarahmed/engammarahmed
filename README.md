@@ -34,7 +34,7 @@
 
 ---
 
-### 🛡️ CYBERSECURITY & SECURITY LABS
+### CYBERSECURITY & SECURITY LABS
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 ---
 
-### 🌐 NETWORKING & PROTOCOLS
+### NETWORKING & PROTOCOLS
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 ---
 
-### 💻 PROGRAMMING & AUTOMATION
+### PROGRAMMING & AUTOMATION
 
 <div align="center">
 
@@ -97,7 +97,7 @@
 
 ---
 
-### 📊 DATA ANALYTICS & VISUALIZATION
+### DATA ANALYTICS & VISUALIZATION
 
 <div align="center">
 
@@ -123,7 +123,7 @@
 
 ---
 
-### 🧰 TOOLS, PLATFORMS & ENVIRONMENTS
+### TOOLS, PLATFORMS & ENVIRONMENTS
 
 <div align="center">
 
@@ -154,7 +154,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Cybersecurity
+### Cybersecurity
 
 - Security fundamentals
 - Defensive security concepts
@@ -164,7 +164,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Networking
+### Networking
 
 - TCP/IP fundamentals
 - DNS, ARP, and ICMP
@@ -176,7 +176,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Data Analytics
+### Data Analytics
 
 - Data cleaning
 - Excel and Power Query
@@ -186,7 +186,7 @@
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Development
+### Development
 
 - Python automation
 - C++ programming
