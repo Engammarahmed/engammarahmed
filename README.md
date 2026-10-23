@@ -116,36 +116,6 @@ I'm Ammar Ahmed, a technology enthusiast exploring cybersecurity, networking, an
 
 ---
 
-## `04 // PROJECT ARCHIVE`
-
-<div align="center">
-
-[![Explore repositories](https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-FF263F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engammarahmed?tab=repositories)
-
-</div>
-
-### `01. NetScope`
-
-Network packet analysis concept using Python, Scapy, and PySide6.
-
-**Focus:** Packet metadata, protocol inspection, and network visibility.
-
-### `02. NetOps Hub`
-
-A desktop network toolkit concept built around Python and PySide6.
-
-**Focus:** Network discovery, diagnostics, monitoring, and troubleshooting.
-
-### `03. Employee Overview Dashboard`
-
-A data analytics project focused on exploring employee data and presenting insights with Power BI.
-
-**Focus:** Data preparation, structured models, and dashboard design.
-
-> Project descriptions are summaries of work in progress. Add direct repository links as each project is published.
-
----
-
 ## `05 // GITHUB STATISTICS`
 
 <div align="center">
