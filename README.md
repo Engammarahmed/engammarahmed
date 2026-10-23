@@ -21,14 +21,14 @@
 
 <div align="center">
 
-<img width="100%" src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-RED%20HACKER%20ARSENAL-111111?style=for-the-badge&labelColor=080808&color=8B0000" alt="Red Hacker Arsenal"/>
+<img height="14" width="50%" src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-RED%20HACKER%20ARSENAL-111111?style=for-the-badge&labelColor=080808&color=8B0000" alt="Red Hacker Arsenal"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/01-CYBERSECURITY-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
-<img src="https://img.shields.io/badge/02-NETWORKING-8B0000?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
-<img src="https://img.shields.io/badge/03-PROGRAMMING-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Programming"/>
-<img src="https://img.shields.io/badge/04-DATA%20ANALYTICS-8B0000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Data Analytics"/>
+<img height="14" src="https://img.shields.io/badge/01-CYBERSECURITY-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
+<img height="14" src="https://img.shields.io/badge/02-NETWORKING-8B0000?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+<img height="14" src="https://img.shields.io/badge/03-PROGRAMMING-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Programming"/>
+<img height="14" src="https://img.shields.io/badge/04-DATA%20ANALYTICS-8B0000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Data Analytics"/>
 
 </div>
 
@@ -38,17 +38,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://skillicons.dev/icons?i=kalilinux,linux,bash,python&theme=dark&perline=4" alt="Kali Linux, Linux, Bash and Python"/>
+<img width="50%" src="https://skillicons.dev/icons?i=kalilinux,linux,bash,python&theme=dark&perline=4" alt="Kali Linux, Linux, Bash and Python"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SECURITY%20FUNDAMENTALS-8B0000?style=for-the-badge&logo=owasp&logoColor=white" alt="Security fundamentals"/>
-<img src="https://img.shields.io/badge/DEFENSIVE%20ANALYSIS-181818?style=for-the-badge&logo=shield&logoColor=FF263F" alt="Defensive analysis"/>
+<img height="14" src="https://img.shields.io/badge/SECURITY%20FUNDAMENTALS-8B0000?style=for-the-badge&logo=owasp&logoColor=white" alt="Security fundamentals"/>
+<img height="14" src="https://img.shields.io/badge/DEFENSIVE%20ANALYSIS-181818?style=for-the-badge&logo=shield&logoColor=FF263F" alt="Defensive analysis"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/PACKET%20INSPECTION-181818?style=for-the-badge&logo=wireshark&logoColor=FF263F" alt="Packet inspection"/>
-<img src="https://img.shields.io/badge/ETHICAL%20LABS-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ethical labs"/>
+<img height="14" src="https://img.shields.io/badge/PACKET%20INSPECTION-181818?style=for-the-badge&logo=wireshark&logoColor=FF263F" alt="Packet inspection"/>
+<img height="14" src="https://img.shields.io/badge/ETHICAL%20LABS-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ethical labs"/>
 
 </div>
 
@@ -58,19 +58,19 @@
 
 <div align="center">
 
-<img width="100%" src="https://skillicons.dev/icons?i=cisco,linux,wireshark&theme=dark&perline=3" alt="Networking technologies"/>
+<img width="50%" src="https://skillicons.dev/icons?i=cisco,linux,wireshark&theme=dark&perline=3" alt="Networking technologies"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/TCP%2FIP-CC0000?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP IP"/>
-<img src="https://img.shields.io/badge/DNS-181818?style=for-the-badge&logo=cloudflare&logoColor=FF263F" alt="DNS"/>
-<img src="https://img.shields.io/badge/ARP-181818?style=for-the-badge&logo=linux&logoColor=FF263F" alt="ARP"/>
+<img height="14" src="https://img.shields.io/badge/TCP%2FIP-CC0000?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP IP"/>
+<img height="14" src="https://img.shields.io/badge/DNS-181818?style=for-the-badge&logo=cloudflare&logoColor=FF263F" alt="DNS"/>
+<img height="14" src="https://img.shields.io/badge/ARP-181818?style=for-the-badge&logo=linux&logoColor=FF263F" alt="ARP"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/ICMP-181818?style=for-the-badge&logo=serverfault&logoColor=FF263F" alt="ICMP"/>
-<img src="https://img.shields.io/badge/SCAPY-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Scapy"/>
-<img src="https://img.shields.io/badge/NETWORK%20DIAGNOSTICS-181818?style=for-the-badge&logo=wireshark&logoColor=FF263F" alt="Network diagnostics"/>
+<img height="14" src="https://img.shields.io/badge/ICMP-181818?style=for-the-badge&logo=serverfault&logoColor=FF263F" alt="ICMP"/>
+<img height="14" src="https://img.shields.io/badge/SCAPY-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Scapy"/>
+<img height="14" src="https://img.shields.io/badge/NETWORK%20DIAGNOSTICS-181818?style=for-the-badge&logo=wireshark&logoColor=FF263F" alt="Network diagnostics"/>
 
 </div>
 
@@ -80,18 +80,18 @@
 
 <div align="center">
 
-<img width="100%" src="https://skillicons.dev/icons?i=python,cpp,bash,qt&theme=dark&perline=4" alt="Python, C++, Bash and Qt"/>
+<img width="50%" src="https://skillicons.dev/icons?i=python,cpp,bash,qt&theme=dark&perline=4" alt="Python, C++, Bash and Qt"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img height="14" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img height="14" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/BASH-181818?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/PYSIDE6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6"/>
-<img src="https://img.shields.io/badge/SCAPY-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Scapy"/>
+<img height="14" src="https://img.shields.io/badge/BASH-181818?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+<img height="14" src="https://img.shields.io/badge/PYSIDE6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6"/>
+<img height="14" src="https://img.shields.io/badge/SCAPY-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Scapy"/>
 
 </div>
 
@@ -101,23 +101,23 @@
 
 <div align="center">
 
-<img width="100%" src="https://skillicons.dev/icons?i=python,mysql&theme=dark&perline=2" alt="Python and MySQL for analytics"/>
+<img width="50%" src="https://skillicons.dev/icons?i=python,mysql&theme=dark&perline=2" alt="Python and MySQL for analytics"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img height="14" src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img height="14" src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img height="14" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img height="14" src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img height="14" src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/MATPLOTLIB-CC3333?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/POWER%20QUERY-7B2CBF?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query"/>
+<img height="14" src="https://img.shields.io/badge/MATPLOTLIB-CC3333?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img height="14" src="https://img.shields.io/badge/POWER%20QUERY-7B2CBF?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query"/>
 
 </div>
 
@@ -127,22 +127,22 @@
 
 <div align="center">
 
-<img width="100%" src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,mysql&theme=dark&perline=3" alt="Windows, Linux, Git, GitHub, VS Code and MySQL"/>
+<img width="50%" src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,mysql&theme=dark&perline=3" alt="Windows, Linux, Git, GitHub, VS Code and MySQL"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/TERMINAL-181818?style=for-the-badge&logo=windowsterminal&logoColor=FF263F" alt="Terminal"/>
-<img src="https://img.shields.io/badge/GIT-181818?style=for-the-badge&logo=git&logoColor=FF263F" alt="Git"/>
+<img height="14" src="https://img.shields.io/badge/TERMINAL-181818?style=for-the-badge&logo=windowsterminal&logoColor=FF263F" alt="Terminal"/>
+<img height="14" src="https://img.shields.io/badge/GIT-181818?style=for-the-badge&logo=git&logoColor=FF263F" alt="Git"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=FF263F" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS%20CODE-181818?style=for-the-badge&logo=visualstudiocode&logoColor=FF263F" alt="VS Code"/>
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img height="14" src="https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=FF263F" alt="GitHub"/>
+<img height="14" src="https://img.shields.io/badge/VS%20CODE-181818?style=for-the-badge&logo=visualstudiocode&logoColor=FF263F" alt="VS Code"/>
+<img height="14" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
 <br/><br/>
 
-<img width="100%" src="https://img.shields.io/badge/LEARN%20%2F%2F%20BUILD%20%2F%2F%20ANALYZE%20%2F%2F%20IMPROVE-FF263F?style=for-the-badge&labelColor=080808&color=8B0000" alt="Learn build analyze improve"/>
+<img height="14" width="50%" src="https://img.shields.io/badge/LEARN%20%2F%2F%20BUILD%20%2F%2F%20ANALYZE%20%2F%2F%20IMPROVE-FF263F?style=for-the-badge&labelColor=080808&color=8B0000" alt="Learn build analyze improve"/>
 
 </div>
 
